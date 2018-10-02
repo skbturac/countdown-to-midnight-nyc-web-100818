@@ -2,5 +2,5 @@
 
 def countdown
   countdown = 0
-  return ""
+  return "HAPPY NEW YEAR!"
 end
